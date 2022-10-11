@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with improving my general codding skills (TS)
 - 💬 Ask me about new exiting projects with grater people 
 - 📫 How to reach me: marcin.czepiela@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He
+- ⚡ Fun fact: During my studies I was codding in Assembly 🤮
 
