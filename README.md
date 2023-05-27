@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/CzepiMM"><img src="https://api.daily.dev/devcards/c6fb039614804b759d0a9e197b10c33f.png?r=6f0" width="400" alt="Marcin Czepiela's Dev Card"/></a>
 
-## Just started solving LeetCode problems
+#### Just started solving LeetCode problems
 [My profile](https://leetcode.com/CzepiMM/)
 
 Here are some ideas to get you started:
