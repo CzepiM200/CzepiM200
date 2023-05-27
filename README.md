@@ -4,6 +4,7 @@
 
 #### Just started solving LeetCode problems
 [My profile](https://leetcode.com/CzepiMM/)
+[My solutions on GitHub](https://github.com/CzepiM200/algorithms-solving)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on box machine analitics system and optimization system for manual workers
