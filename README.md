@@ -15,9 +15,9 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on box machine analitics system and optimization system for manual workers
-- 🌱 Working with React, Next.js, React Native, NestJS, Flutter and Darte
+- 🌱 Working with React, Next.js, React Native, NestJS
 - 🥇 Trying to solve LeetCode challanges
-- 🤔 I’m looking for help with improving my general codding skills (TS)
+- 🤔 I’m looking for help with improving my general codding skills
 - 💬 Ask me about new exiting projects with grater people 
 - 📫 How to reach me: marcin.czepiela@gmail.com
 - ⚡ Fun fact: During my studies I was codding in Assembly 🤮
