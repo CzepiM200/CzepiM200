@@ -8,7 +8,7 @@
 ### LinkedIn
 [My LinkedIn](https://www.linkedin.com/in/marcin-czepiela-9353ba198/)
 
-### This year I deployed this application to the App Store and Google Play
+### This year I deployed Efectivo application to the App Store and Google Play
 [Efectico - App Store](https://apps.apple.com/pl/app/efectivo/id6477161431)
 [Efectivo - Google Play](https://play.google.com/store/apps/details?id=com.humanit.efectivo)
 
