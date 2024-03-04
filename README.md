@@ -13,16 +13,23 @@
 
 [My solutions on GitHub 💻](https://github.com/CzepiM200/algorithms-solving)
 
-### I was deployed this application to the App Store and Google Play
+### This year I deployed this application to the App Store and Google Play
 [Efectico - App Store](https://apps.apple.com/pl/app/efectivo/id6477161431)
 [Efectivo - Google Play](https://play.google.com/store/apps/details?id=com.humanit.efectivo)
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on box machine analitics system and optimization system for manual workers
-- 🌱 Working with React, Next.js, React Native, NestJS
-- 🥇 Trying to solve LeetCode challanges
-- 🤔 I’m looking for help with improving my general codding skills
-- 💬 Ask me about new exiting projects with grater people 
-- 📫 How to reach me: marcin.czepiela@gmail.com
-- ⚡ Fun fact: During my studies I was codding in Assembly 🤮
+### I was working on KoCoach boxing application as React Native & NestJS developer
+[LinkedIn company page](https://www.linkedin.com/company/kocoachits/)
 
+### Here are some ideas to get you started:
+- 🔭 Recently I was working on on KoCoach application for a boxing
+- 🦾 Currently I'm working on an Efectivo application for optimizing physical worker's efficiency
+- 🌱 Working with React, Next.js, React Native, NestJS
+- 🥇 Trying to solve LeetCode challenges
+- 🤔 I’m looking for help with improving my general coding skills
+- 💬 Ask me about new exciting projects with more people 
+- 📫 How to reach me: marcin.czepiela@gmail.com
+- ⚡ Fun fact: During my studies, I was codding in Assembly 🤮
+
+🤝
+
+​
