@@ -14,7 +14,7 @@
 [My solutions on GitHub 💻](https://github.com/CzepiM200/algorithms-solving)
 
 ### I was deployed this application to the App Store and Google Play
-[Efectico - App Store]([https://apps.apple.com/pl/app/efectivo/id6477161431?l=pl](https://apps.apple.com/pl/app/efectivo/id6477161431))
+[Efectico - App Store](https://apps.apple.com/pl/app/efectivo/id6477161431)
 [Efectivo - Google Play](https://play.google.com/store/apps/details?id=com.humanit.efectivo)
 
 Here are some ideas to get you started:
