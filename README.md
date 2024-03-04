@@ -8,17 +8,17 @@
 ### LinkedIn
 [My LinkedIn](https://www.linkedin.com/in/marcin-czepiela-9353ba198/)
 
-### Just started solving LeetCode problems
-[My profile 🥇](https://leetcode.com/CzepiMM/)
-
-[My solutions on GitHub 💻](https://github.com/CzepiM200/algorithms-solving)
-
 ### This year I deployed this application to the App Store and Google Play
 [Efectico - App Store](https://apps.apple.com/pl/app/efectivo/id6477161431)
 [Efectivo - Google Play](https://play.google.com/store/apps/details?id=com.humanit.efectivo)
 
 ### I was working on KoCoach boxing application as React Native & NestJS developer
 [LinkedIn company page](https://www.linkedin.com/company/kocoachits/)
+
+### Just started solving LeetCode problems
+[My profile 🥇](https://leetcode.com/CzepiMM/)
+
+[My solutions on GitHub 💻](https://github.com/CzepiM200/algorithms-solving)
 
 ### Here are some ideas to get you started:
 - 🔭 Recently I was working on on KoCoach application for a boxing
